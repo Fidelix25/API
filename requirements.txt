@@ -1,0 +1,6 @@
+annotated-types
+fastapi
+httpx
+pydantic-core
+pydantic
+uvicorn
